@@ -1,4 +1,4 @@
-package com.dutytrail.ops.eureka;
+package com.joantolos.kata.eureka.spring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

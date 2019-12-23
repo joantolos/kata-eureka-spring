@@ -1,0 +1,1 @@
+web: java $JAVA_OPTS -jar build/libs/kata-eureka-spring-1.0.0-SNAPSHOT.jar
